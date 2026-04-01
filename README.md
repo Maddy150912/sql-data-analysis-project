@@ -152,7 +152,9 @@ SQL Data Warehouse Project :- https://github.com/Maddy150912/sql_data_warehouse_
 
 ## 👨‍💻 About Me
 
-Hi, I'm Mandar Yangal — a SQL & Power BI enthusiast building end-to-end data solutions and continuously growing in the field of Data & Analytics.
+Hi, I'm Mandar Yangal — a data professional with 2 years of experience in data operations, validation, and backend processes. I have hands-on experience in SQL, Power BI, and Python, and have built end-to-end data projects involving data cleaning, transformation, modeling, and visualization.
+
+Currently, I am expanding my skill set by learning Apache Spark (PySpark) on Databricks, focusing on big data processing and data engineering workflows. I am actively seeking opportunities in Data Analytics or Data Engineering roles where I can contribute to data-driven decision-making and continue growing in the data domain.
 
 🔗 **Connect with me:**  
 
